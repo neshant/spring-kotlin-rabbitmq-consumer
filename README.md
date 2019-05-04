@@ -1,1 +1,1 @@
-This is the producer application
+This is the consumer application
